@@ -83,7 +83,6 @@
 
   /* FOOTER */
   .footer{
-    /* background-color: transparent; */
     padding: 10px 0;
     opacity:1 !important;
   }
@@ -104,7 +103,7 @@
   }
 
   /* PAGE - ABOUT */
-  .box-about{
+  .box-hi, .box-about{
     padding:30% 0;
     height: auto;
   }
@@ -167,9 +166,6 @@
   .thanks p{
     font-size:18px;
   }
-  .footer-about{
-    opacity:1;
-  }
 
   /* PAGE SERVCIES */
   .srv-logo{
@@ -186,6 +182,9 @@
   }
   .List-box-srv p{
     width:95%;
+  }
+  .btn-scroll{
+    display: none !important;
   }
 }
 

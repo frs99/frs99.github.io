@@ -1,9 +1,0 @@
-# Group 1
-User-agent: *
-Allow: /
-
-# Group 3
-User-agent: Googlebot-Image
-Disallow: /
-
-Sitemap: https://frscodes.github.io/sitemap.xml
