@@ -1,0 +1,46 @@
+body{
+  background-color: #070314;
+  background-size: cover;
+}
+
+.bar{
+  background-color: #202020;
+  border: none;
+}
+.navbar{
+  height:80px;
+}
+.logo img{
+  width:75px;
+}
+.a-navbar{
+  color: #fff;
+}
+.btn-a{
+  background-color: #fff;
+  color: #202020;
+  border-radius:45px;
+  padding: 10px 40px;
+  font-size:18px;
+  font-weight:600;
+}
+.big-logo img{
+  width:500px;
+}
+.full-social{
+  margin-top:20px;
+}
+
+.social{
+  width:45px;
+  height:45px;
+  background-color: #202020;
+  border-radius: 8px;
+  color: #fff;
+  font-size:26px;
+}
+.social:hover{
+  background-color: #303030;
+  box-shadow: -1px -1px 4px #69b3fc, 1px 1px 4px #e55193;
+}
+

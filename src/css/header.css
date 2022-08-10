@@ -1,0 +1,51 @@
+/* HEADER - NAVBAR */
+/*************** START **************/
+/* ID: #NAV1 */
+.bar{
+  border-bottom: solid 1px #dadce0;
+  width: 100%;
+}
+.logo{
+  width:auto;
+  height:auto;
+}
+.logo img{
+  width:40px;
+}
+.navbar{
+  width:95%;
+  max-width: 1920px;
+  margin: 0 auto;
+  height:64px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.nav-navbar{
+  width: 100%;
+  flex-wrap: wrap;
+}
+.ul-navbar{
+  display: flex;
+}
+.li-navbar{
+  margin: 10px;
+}
+.a-navbar{
+  padding:29px 20px;
+  cursor: pointer;
+}
+.a-navbar:hover{
+  background-color:#303030;
+}
+.btn-a{
+  border: solid 1px #dadce0;
+  padding: 8px 10px;
+  border-radius: 3px;
+  display: inline-block;
+} 
+.btn-a:hover{
+  background-color: #BFBFBF;
+  color:#000000;
+  box-shadow: -2px -2px 4px #69b3fc, 2px 2px 4px #e55193;
+}
