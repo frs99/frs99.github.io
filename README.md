@@ -1,20 +1,17 @@
-**install react:**
+# frscodes
 
-> This project is without the basic React files
+## Project setup
+```
+npm install
+```
 
-**01- Download:**
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-`git clone https://github.com/frscodes/frscodes.github.io`
-
-**02- for install react :**
-
-`npm i react`
-
-**02- for start react :**
-
-`npm start`
-
-**03 - and go to:**
-
-http://localhost:3000/
+### Compiles and minifies for production
+```
+npm run build
+```
 
