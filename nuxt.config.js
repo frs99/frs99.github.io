@@ -11,7 +11,26 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+
+      { name:'theme-color', content:'#202020' },
+      { name: 'msapplication-navbutton-color', content: '#202020' },
+      { name: 'apple-mobile-web-app-status-bar-style', content: '#202020' },
+
+      // Primary Meta Tags
+      { name: 'description', content: 'Frontend website developer' },
+      //Open Graph / Facebook
+      { property: 'og:type', content: 'website' },
+      { property:'og:url', content:'https://frscodes.github.io/'},
+      { property:'og:title', content:'FrsCodes'},
+      { property:'og:description', content:'Frontend website developer'},
+      { property:'og:image', content:'assets/img/meta.jpg'},
+      //Twitter
+      { property:'twitter:card', content:'summary_large_image'},
+      { property:'twitter:url', content:'https://frscodes.github.io/'},
+      { property:'twitter:title', content:'FrsCodes'},
+      { property:'twitter:description', content:'Frontend website developer'},
+      { property:'twitter:image', content:'assets/img/meta.jpg'},
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
