@@ -1,0 +1,59 @@
+  /* HEADER - NAVBAR */
+  /*************** START **************/
+
+  .bar{
+    border-bottom: solid 1px #dadce0;
+    width: 100%;
+    background-color: #202020;
+    border: none;
+  }
+  .logo{
+    width:auto;
+    height:auto;
+    cursor: pointer;
+  }
+  .logo img{
+    width:75px;
+  }
+  .navbar{
+    width:95%;
+    max-width: 1920px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    position: relative;
+    height:80px;
+  }
+  .nav-navbar{
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .ul-navbar{
+    display: flex;
+  }
+  .li-navbar{
+    margin: 10px;
+  }
+  .a-navbar{
+    padding:29px 20px;
+    cursor: pointer;
+    color: #fff;
+  }
+  .a-navbar:hover{
+    background-color:#303030;
+  }
+  .btn-a{
+    border: solid 1px #dadce0;
+    display: inline-block;
+    background-color: #fff;
+    color: #202020;
+    border-radius:45px;
+    padding: 10px 40px;
+    font-size:18px;
+    font-weight:600;
+  } 
+  .btn-a:hover{
+    background-color: #BFBFBF;
+    color:#000000;
+    box-shadow: -2px -2px 4px #69b3fc, 2px 2px 4px #e55193;
+  }

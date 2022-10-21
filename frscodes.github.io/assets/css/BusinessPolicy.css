@@ -1,0 +1,11 @@
+.BusinessPolicy{
+  width: 90%;
+  padding-bottom: 30px;
+  max-width: 1920px;
+}
+
+@media (max-width: 992px){
+  .main-business{
+    padding-bottom: 30%;
+  }
+}
