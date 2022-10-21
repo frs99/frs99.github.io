@@ -1,8 +1,0 @@
-<template>
-  <h1>error</h1>
-</template>
-<script>
-export default {
-  layout: 'error',
-}
-</script>
