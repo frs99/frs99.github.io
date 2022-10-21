@@ -3,16 +3,5 @@
 </template>
 
 <script setup>
-  useHead({
-    title: "about"
-  })
-  
-</script>
-
-<script>
-export default {
-  mounted(){
-    console.log("fares")
-  }
-}
+  useHead({title: "about"})
 </script>

@@ -1,3 +1,3 @@
 <template>
-  <h1>services</h1>
+  <p>im footer</p>
 </template>
