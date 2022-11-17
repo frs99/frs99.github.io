@@ -4,4 +4,7 @@
 
 <script setup>
   useHead({title: "about"})
+  definePageMeta({
+    layout: "english",
+  })
 </script>

@@ -1,7 +1,9 @@
 <template>
   <div>
     <Header />
-    <slot />
+    <main>
+      <slot />
+    </main>
     <Footer />
   </div>
 </template>
@@ -15,3 +17,9 @@ import Footer from '~~/components/Footer.vue';
     Footer
   }
 </script>
+
+<style>
+  body{
+    font-family: 'Inter', sans-serif;
+  }
+</style>
