@@ -1,6 +1,6 @@
 <template>
-  <header class="">
-    <section class="container max-w-screen-xl my-0 mx-auto flex justify-between items-center h-20">
+  <header>
+    <section class="container my-0 mx-auto flex justify-between items-center h-20">
       <div>
         <img class="w-11" src="~/assets/img/logo.png">
       </div>
@@ -17,10 +17,10 @@
       <nav>
         <ul class="flex justify-between text-color05 font-medium">
           <li class="mr-5 flex items-center justify-center"><NuxtLink class="flex items-center justify-center" to="/blog/"><i class="fi fi-brands-twitter text-lg h-5"></i></NuxtLink></li>
-          <li class="flex items-center justify-center"><NuxtLink class="flex items-center justify-center" to="/blog/"><i class="fi fi-brands-github text-lg h-5"></i></NuxtLink></li>
+          <li class="mr-5 flex items-center justify-center"><NuxtLink class="flex items-center justify-center" to="/blog/"><i class="fi fi-brands-github text-lg h-5"></i></NuxtLink></li>
+          <li><NuxtLink class="font-medium text-xs lang bg-color04 rounded-md p-1 text-color01" to="/ar/">العربية</NuxtLink></li>
         </ul>
       </nav>
-      <!-- <NuxtLink class="font-medium text-xs lang bg-color04 rounded-md p-1" to="/ar/">العربية</NuxtLink> -->
     </section>
   </header>
 </template>

@@ -42,3 +42,7 @@ img{
 body{
   background-color: #22223B;
 }
+
+@media (max-width: 991px){
+
+}

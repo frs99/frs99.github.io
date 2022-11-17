@@ -1,6 +1,6 @@
 <template>
-  <section>
-    <h1 class="text-6xl">home</h1>
+  <section class="flex justify-center items-center">
+    <EnHomeWelcome />
   </section>
 </template>
 
@@ -13,6 +13,6 @@
 
 <style scoped>
   section{
-    height: calc(100vh - 120px);
+    height: calc(100vh - 80px);
   }
 </style>
