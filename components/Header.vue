@@ -1,6 +1,6 @@
 <template>
   <header>
-    <section class="container my-0 mx-auto flex justify-between items-center h-20">
+    <section class="max px-6 my-0 mx-auto flex justify-between items-center h-20">
       <div>
         <img class="w-11" src="~/assets/img/logo.png">
       </div>

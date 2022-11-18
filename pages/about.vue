@@ -1,5 +1,7 @@
 <template>
-  <h1>about</h1>
+  <section class="flex justify-center items-center py-20 mx-auto my-0 container">
+    <EnHomeAbout />
+  </section>
 </template>
 
 <script setup>
