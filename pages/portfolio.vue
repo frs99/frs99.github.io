@@ -1,5 +1,10 @@
 <template>
-  <section class="flex justify-center items-center">
-    <h1 class="text-6xl">home</h1>
+  <section class="sm:container sm:my-0 sm:mx-auto md:max-w-3xl">
+    <EnPortfolioContent />
   </section>
 </template>
+
+<script setup>
+  useHead({title: "Portolio"})
+  definePageMeta({layout: "english"})
+</script>
