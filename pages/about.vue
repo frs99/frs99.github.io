@@ -1,5 +1,5 @@
 <template>
-  <section class="flex justify-center items-center py-20 mx-auto my-0 container">
+  <section class="flex justify-center items-center py-16 mx-auto my-0 container">
     <EnAboutSummary />
   </section>
 </template>

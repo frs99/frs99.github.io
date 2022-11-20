@@ -30,6 +30,10 @@ export default defineNuxtConfig({
     '@/assets/css/index.css'
   ],
   modules: [
-    '@nuxtjs/tailwindcss'
-  ]
+    '@nuxtjs/tailwindcss',
+    '@nuxt/image-edge',
+  ],
+  image: {
+    dir: 'assets/img'
+  }
 })

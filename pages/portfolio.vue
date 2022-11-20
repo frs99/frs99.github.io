@@ -1,5 +1,5 @@
 <template>
-  <section class="sm:container sm:my-0 sm:mx-auto md:max-w-3xl">
+  <section class="py-20 sm:container sm:my-0 sm:mx-auto md:max-w-3xl">
     <EnPortfolioContent />
   </section>
 </template>
