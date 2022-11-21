@@ -9,16 +9,18 @@
           <li class="mr-5"><NuxtLink to="/">Home</NuxtLink></li>
           <li class="mr-5"><NuxtLink to="/about/">About</NuxtLink></li>
           <li class="mr-5"><NuxtLink to="/portfolio/">Portfolio</NuxtLink></li>
-          <li class="mr-5"><NuxtLink to="/contact/">Contact</NuxtLink></li>
+          <!-- <li class="mr-5"><NuxtLink to="/contact/">Contact</NuxtLink></li> -->
           <li><NuxtLink to="/blog/">Blog</NuxtLink></li>
         </ul>
       </nav>
 
       <nav>
         <ul class="flex justify-between text-color05 font-medium">
-          <li class="mr-5 flex items-center justify-center"><NuxtLink class="flex items-center justify-center" to="/blog/"><i class="fi fi-brands-twitter text-lg h-5"></i></NuxtLink></li>
-          <li class="mr-5 flex items-center justify-center"><NuxtLink class="flex items-center justify-center" to="/blog/"><i class="fi fi-brands-github text-lg h-5"></i></NuxtLink></li>
-          <li><NuxtLink class="font-medium text-xs lang bg-color04 rounded-md p-1 text-color01" to="/ar/">العربية</NuxtLink></li>
+          <li class="mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://twitter.com/_frs99"><i class="fi fi-brands-twitter text-lg h-5"></i></a></li>
+          <li class="mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://github.com/frs99"><i class="fi fi-brands-github text-lg h-5"></i></a></li>
+          <li class="mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://dev.to/frs99"><i class="fi fi-brands-dev text-lg h-5"></i></a></li>
+
+          <li><NuxtLink class="block font-medium text-xs lang bg-color04 rounded-md py-1 px-2 text-color01" to="/ar/">العربية</NuxtLink></li>
         </ul>
       </nav>
     </section>
