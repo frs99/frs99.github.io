@@ -25,6 +25,7 @@ export default defineNuxtConfig({
         { rel:"mask-icon", href:"/safari-pinned-tab.svg", color:"#5bbad5"},
       ],
     },
+    buildAssetsDir: 'nuxt',
   },
   css: [
     '@/assets/css/index.css'
