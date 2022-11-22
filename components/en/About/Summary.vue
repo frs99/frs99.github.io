@@ -1,5 +1,5 @@
 <template>
-  <div class="text-color05 w-3/5">
+  <div class="text-color05 w-4/5 sm:w-3/5">
     <h1>Fares <br> Djefaflia</h1>
     <br>
 
@@ -33,9 +33,8 @@
 </template>
 
 <script setup>
-  const d = new Date
-  const year = d.getFullYear()
-  console.log(year)
+  let d = new Date
+  let year = d.getFullYear()
 </script>
 <style scoped>
   h1{
