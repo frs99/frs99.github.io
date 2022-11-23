@@ -32,10 +32,12 @@ export default defineNuxtConfig({
   ],
   modules: [
     '@nuxtjs/tailwindcss',
-    '@nuxt/image-edge',
+    // '@nuxt/image-edge',
     '@nuxt/content',
   ],
-  image: {
-    dir: 'assets/img'
-  },
+  // image: {
+  //   provider: 'static',
+  //   dir: 'assets/img'
+  // },
+  ssr: false
 })

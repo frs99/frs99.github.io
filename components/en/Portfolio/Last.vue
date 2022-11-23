@@ -5,7 +5,7 @@
       <NuxtLink class="inline-block w-full px-3 py-2 rounded-sm transition-all lg:w-80 hover:bg-color02" to="#">
         <article class="flex">
           <div class="flex justify-center items-center w-16">
-            <nuxt-img class="w-10" src="#" />
+            <img class="w-10" src="#">
           </div>
           <div class="ml-6">
             <h2 class="text-color05">Lorem, ipsum dolor.</h2>
