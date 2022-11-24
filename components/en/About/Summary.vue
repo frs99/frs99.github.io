@@ -26,8 +26,8 @@
     <hr class="w-5 mb-5">
     <p class="font-light text-sm"><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> FARES {{year}}</p>
     <div class="mt-5">
-      <NuxtLink class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1" to="/">cd..</NuxtLink>
-      <NuxtLink class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/portfolio/">/Portfolio</NuxtLink>
+      <NuxtLink class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1" to="/" aria-label="link">cd..</NuxtLink>
+      <NuxtLink class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/portfolio/" aria-label="link">/Portfolio</NuxtLink>
     </div>
   </div>
 </template>
