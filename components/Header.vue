@@ -13,7 +13,7 @@
 
     <!-- NAVBAR DESKTOP -->
     <section ref="navbar" class="
-        w-full bg-color01 fixed top-0 h-0 z-50 overflow-hidden transition-all
+        w-full bg-color01 fixed top-0 h-0 z-50 overflow-hidden
         sm:static sm:flex sm:max px-6 my-0 mx-auto sm:justify-between sm:items-center sm:h-20">
       <div class="hidden sm:block">
         <img class="w-11 h-11" src="../assets/img/logo.png" alt="logo">
@@ -27,10 +27,9 @@
 
       <nav>
         <ul class="sm:flex justify-between text-color05 font-medium">
-          <li class="sm:mr-5"><NuxtLink @click="CloseBavbar" class="w-full inline-block text-center py-7" to="/">Home</NuxtLink></li>
-          <li class="sm:mr-5"><NuxtLink @click="CloseBavbar" class="w-full inline-block text-center py-7" to="/about/">About</NuxtLink></li>
-          <li class="sm:mr-5"><NuxtLink @click="CloseBavbar" class="w-full inline-block text-center py-7" to="/portfolio/">Portfolio</NuxtLink></li>
-          <li><NuxtLink @click="CloseBavbar" class="w-full inline-block text-center py-7" to="/blog/">Blog</NuxtLink></li>
+          <li class="sm:px-5" v-for="item in navbar" :key="item">
+            <NuxtLink @click="CloseBavbar" class="w-full inline-block text-center py-7" :to="item.link">{{item.name}}</NuxtLink>
+          </li>
         </ul>
       </nav>
 
@@ -50,9 +49,18 @@
 
 <script>
 export default {
+  data() {
+    return {
+      navbar: [
+        {name:"Home", link:"/"},
+        {name:"About", link:"/about/"},
+        {name:"Portfolio", link:"/portfolio/"},
+        {name:"Blog", link:"/blog/"},
+      ]
+    }
+  },
   methods: {
     OpenNavbar(){
-      console.log(this.$refs.navbar)
       this.$refs.navbar.classList.toggle("max-h")
     },
     CloseBavbar(){
@@ -87,6 +95,7 @@ export default {
   @media (max-width: 640px){
     .max-h{
       height: 100vh;
+      transition: all 0.4s;
     }
   }
   

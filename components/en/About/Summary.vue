@@ -20,7 +20,7 @@
     <br>
 
     <p>For my resume or to know more about me, you can <strong><a target="_blank" href="mailto:djefaflia.fares@gmail.com" title="contact me">Email me</a></strong></p>
-    <p>Find me on <strong><a href="https://twitter.com/_frs99" target="_blank" title="Twitter">Twitter</a></strong>, <strong><a href="https://github.com/frs99" target="_blank" title="Github">Github</a></strong> or <strong><a href="https://www.facebook.com/frs99.me" target="_blank" title="Facebook">Facebook</a></strong>.</p>
+    <p>Find me on <strong><a href="https://twitter.com/_frs99" target="_blank" title="Twitter">Twitter</a></strong>, <strong><a href="https://github.com/frs99" target="_blank" title="Github">Github</a></strong> or <strong><a href="https://www.facebook.com/me.frs99" target="_blank" title="Facebook">Facebook</a></strong>.</p>
     
     <br>
     <hr class="w-5 mb-5">
