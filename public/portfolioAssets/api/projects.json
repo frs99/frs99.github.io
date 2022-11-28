@@ -1,11 +1,37 @@
 [
   {
-    "name": "test1",
-    "description": "just a text for test",
-    "nameAr": "اختبار1",
-    "descriptionAR": "مجرد نص لوصف ما",
-    "img":"/portfolioAssets/img/logo.png",
-    "link":"www.google.com",
-    "linkG": "/frs99/test"
+    "name": "Marj3i",
+    "description": "Practical application for a UX/UI & Vue.js",
+    "nameAr": "مرجعي",
+    "descriptionAR": "تطبيق عملي لواجهات المستخدم",
+    "img":"/portfolioAssets/img/Asset 3.png",
+    "link":"https://frs99.github.io/marj3i/",
+    "linkG": "/frs99/marj3i"
+  },
+  {
+    "name": "FrsCodes",
+    "description": "The previous website",
+    "descriptionAR": "الموقع الإلكتروني السابق",
+    "img":"/portfolioAssets/img/FARES.png",
+    "link":"https://frs99.github.io/frscodes/",
+    "linkG": "/frs99/frscodes"
+  },
+  {
+    "name": "Dalilmutabarie",
+    "description": "Practical application for a virtual website.",
+    "nameAr": "دليل متبرع",
+    "descriptionAR": "تطبيق عملي لموقع افتراضي",
+    "img":"/portfolioAssets/img/Asset 9.png",
+    "link":"https://frs99.github.io/dalilmutabarie/",
+    "linkG": "/frs99/dalilmutabarie"
+  },
+  {
+    "name": "Google Play Gallery",
+    "description": "View applications in one place",
+    "nameAr": "معرض تطبيقات جوجل بلاي",
+    "descriptionAR": "عرض التطبيقات في مكان واحد",
+    "img":"/portfolioAssets/img/Asset 2.png",
+    "link":"https://frs99.github.io/google-play-gallery/",
+    "linkG": "/frs99/google-play-gallery"
   }
 ]
