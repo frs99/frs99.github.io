@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <h1 class="font-bold text-color02 text-3xl">Last</h1>
-    <p class="ml-2 font-light text-color02 text-sm mt-2">What I am working on now and continuing to do</p>
-
+  <div class="mt-4">
+    <h1 class="font-bold text-color02 text-3xl">Projects</h1>
+    <p class="ml-2 font-light text-color02 text-sm mt-2">All previous works from the distant past</p>
     <div class="mt-3 my-0 mx-auto sm:flex sm:flex-wrap sm:justify-between lg:max-w-2xl">
       <NuxtLink v-for="item in portfolio" :key="item" :to="item.link" class="inline-block w-full px-3 py-2 rounded-sm transition-all lg:w-80 hover:bg-color02" aria-label="link">
         <article class="flex">
