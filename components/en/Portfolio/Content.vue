@@ -1,6 +1,6 @@
 <template>
   <div class="px-6">
-    <EnPortfolioLast />
+    <EnPortfolioFuture />
     <EnPortfolioProjects />
     <EnPortfolioGithub />
     <div class="mt-5">

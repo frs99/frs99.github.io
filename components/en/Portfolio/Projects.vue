@@ -1,11 +1,11 @@
 <template>
   <div class="mt-4">
     <h1 class="font-bold text-color02 text-3xl">Projects</h1>
-    <p class="ml-2 font-light text-color02 text-sm mt-2">All previous works from the distant past</p>
+    <p class="ml-2 font-light text-color02 text-sm mt-2">All my works from the past to now</p>
     <div class="mt-3 my-0 mx-auto sm:flex sm:flex-wrap sm:justify-between lg:max-w-2xl">
-      <a v-for="item in portfolio" :key="item" :href="item.link" class="inline-block w-full px-3 py-2 rounded-sm transition-all lg:w-80 hover:bg-color02" aria-label="link">
+      <a v-for="item in portfolio" :key="item" :href="item.link" target="_blank" class="inline-block w-full px-3 py-2 rounded-sm transition-all lg:w-80 hover:bg-color02" aria-label="link">
         <article class="flex items-center">
-          <div class="flex justify-center items-center">
+          <div class="flex justify-center items-center w-11">
             <img :src="item.img">
           </div>
           <div class="ml-3">

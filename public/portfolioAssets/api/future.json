@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Acila store",
+    "description": "Online store application",
+    "nameAr": "متجر أصيلة",
+    "descriptionAR": "تطبيق لمتجر اونلاين",
+    "img":"/portfolioAssets/img/Asset 13.png",
+    "link":"3",
+    "linkG": "[soon]"
+  },
+  {
+    "name": "Gheyth",
+    "description": "Educational religious platform",
+    "nameAr": "غيث",
+    "descriptionAR": "منصة دينية تعليمية",
+    "img":"/portfolioAssets/img/Asset 16.png",
+    "link":"https://gheyth.github.io/",
+    "linkG": "/gheyth"
+  },
+  {
+    "name": "Ahmed",
+    "description": "A small encyclopedia of prophetic sayings",
+    "nameAr": "أحمد",
+    "descriptionAR": "موسوعة احاديث نبوية",
+    "img":"/portfolioAssets/img/Asset 15.png",
+    "link":"#",
+    "linkG": "/gheyth/ahmed"
+  },
+  {
+    "name": "Alfurqan",
+    "description": "Encyclopedia of the Qur'an",
+    "nameAr": "الفرقان",
+    "descriptionAR": "موسوعة تدبر القرآن",
+    "img":"/portfolioAssets/img/Asset 4.png",
+    "link":"#",
+    "linkG": "/gheyth/alfurqan"
+  }
+]
