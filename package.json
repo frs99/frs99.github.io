@@ -1,4 +1,19 @@
 {
+  "name": "frs99",
+  "version": "5.0.0",
+  "description": "My official website.",
+  "author": "fares djefaflia",
+  "licenseName": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+
+  "homepage": "https://github.com/frs99/frs99.github.io#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frs99/frs99.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/frs99/frs99.github.io/issues"
+  },
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -11,7 +26,6 @@
   },
   "devDependencies": {
     "@nuxt/content": "^2.2.2",
-    "@nuxt/image-edge": "^1.0.0-27809804.194d2d6",
     "@nuxtjs/tailwindcss": "^6.1.3",
     "gh-pages": "^4.0.0",
     "nuxt": "3.0.0"
