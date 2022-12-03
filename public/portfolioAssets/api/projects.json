@@ -3,62 +3,45 @@
     "name": "Gheyth",
     "description": "Educational religious platform",
     "nameAr": "غيث",
-    "descriptionAR": "منصة دينية تعليمية",
+    "descriptionAr": "منصة دينية تعليمية",
     "img":"/portfolioAssets/img/Asset 16.png",
     "link":"https://gheyth.github.io/",
-    "linkG": "/gheyth"
-  },
-  {
-    "name": "Ahmed",
-    "description": "A small encyclopedia of prophetic sayings",
-    "nameAr": "أحمد",
-    "descriptionAR": "موسوعة احاديث نبوية",
-    "img":"/portfolioAssets/img/Asset 15.png",
-    "link":"https://gheyth.github.io/ahmed/",
-    "linkG": "/gheyth/ahmed"
-  },
-  {
-    "name": "Alfurqan",
-    "description": "Encyclopedia of the Qur'an",
-    "nameAr": "الفرقان",
-    "descriptionAR": "موسوعة تدبر القرآن",
-    "img":"/portfolioAssets/img/Asset 4.png",
-    "link":"https://gheyth.github.io/alfurqan/",
-    "linkG": "/gheyth/alfurqan"
+    "linkG": "/gheyth/"
   },
   {
     "name": "Marj3i",
     "description": "Practical application for a UX/UI & Vue.js",
     "nameAr": "مرجعي",
-    "descriptionAR": "تطبيق عملي لواجهات المستخدم",
+    "descriptionAr": "تطبيق عملي لواجهات المستخدم",
     "img":"/portfolioAssets/img/Asset 3.png",
     "link":"https://frs99.github.io/marj3i/",
-    "linkG": "/frs99/marj3i"
+    "linkG": "/frs99/marj3i/"
   },
   {
     "name": "FrsCodes",
     "description": "The previous website",
-    "descriptionAR": "الموقع الإلكتروني السابق",
+    "nameAr": "FrsCodes",
+    "descriptionAr": "الموقع الإلكتروني السابق",
     "img":"/portfolioAssets/img/FARES.png",
     "link":"https://frs99.github.io/frscodes/",
-    "linkG": "/frs99/frscodes"
+    "linkG": "/frs99/frscodes/"
   },
   {
     "name": "Dalilmutabarie",
     "description": "Practical application for a virtual website.",
     "nameAr": "دليل متبرع",
-    "descriptionAR": "تطبيق عملي لموقع افتراضي",
+    "descriptionAr": "تطبيق عملي لموقع افتراضي",
     "img":"/portfolioAssets/img/Asset 9.png",
     "link":"https://frs99.github.io/dalilmutabarie/",
-    "linkG": "/frs99/dalilmutabarie"
+    "linkG": "/frs99/dalilmutabarie/"
   },
   {
     "name": "Google Play Gallery",
     "description": "View applications in one place",
     "nameAr": "معرض تطبيقات جوجل بلاي",
-    "descriptionAR": "عرض التطبيقات في مكان واحد",
+    "descriptionAr": "عرض التطبيقات في مكان واحد",
     "img":"/portfolioAssets/img/Asset 2.png",
     "link":"https://frs99.github.io/google-play-gallery/",
-    "linkG": "/frs99/google-play-gallery"
+    "linkG": "/frs99/google-play-gallery/"
   }
 ]
