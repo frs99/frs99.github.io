@@ -5,6 +5,9 @@
 </template>
 
 <script setup>
+useHead({
+  title:"الرئيسية"
+})
 definePageMeta({
     layout:"arabic"
   })

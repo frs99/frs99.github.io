@@ -1,7 +1,7 @@
 <template>
   <div class="mt-4">
-    <h1 class="font-bold text-color02 text-3xl">مشاريع على Github</h1>
-    <p class="ml-2 font-light text-color02 text-sm mt-2"> هذا هو github وستجد بعض الفوضى هنا 😒</p>
+    <h1 class="font-bold text-color03 text-3xl">مشاريع على Github</h1>
+    <p class="mr-2 font-light text-color03 text-sm mt-2"> هذا هو github وستجد بعض الفوضى هنا 😒</p>
     <div style="direction: ltr" class="mt-3 my-0 mx-auto sm:flex sm:flex-wrap sm:justify-between lg:max-w-2xl">
       <a v-for="r in repos" :key="r" target="_blank" class="inline-block w-full py-2 px-2 rounded-sm transition-all lg:w-80 hover:bg-color02" :href="r.html_url" aria-label="link">
         <article class="flex">

@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-  useHead({title: "about"})
+  useHead({title: "حول"})
   definePageMeta({
     layout: "arabic",
   })

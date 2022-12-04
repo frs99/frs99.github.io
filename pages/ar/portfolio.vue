@@ -5,6 +5,6 @@
 </template>
 
 <script setup>
-  useHead({title: "Portolio"})
+  useHead({title: "أعمالي"})
   definePageMeta({layout: "arabic"})
 </script>

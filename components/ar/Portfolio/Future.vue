@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1 class="font-bold text-color02 text-3xl">المستقبل</h1>
-    <p class="ml-2 font-light text-color02 text-sm mt-2">أعمالي التي اخطط لها او لم تنتهي بعد</p>
+    <h1 class="font-bold text-color03 text-3xl">المستقبل</h1>
+    <p class="mr-2 font-light text-color03 text-sm mt-2">أعمالي التي اخطط لها او لم تنتهي بعد</p>
 
     <div class="mt-3 my-0 mx-auto sm:flex sm:flex-wrap sm:justify-between lg:max-w-2xl">
       <a v-for="item in portfolio" :key="item" :href="item.link" target="_blank"
