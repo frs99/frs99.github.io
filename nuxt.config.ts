@@ -39,5 +39,8 @@ export default defineNuxtConfig({
   //   provider: 'static',
   //   dir: 'assets/img'
   // },
-  ssr: false
+  // ssr: false,
+  // nitro: {
+  //   preset: 'service-worker'
+  // }
 })
