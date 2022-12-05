@@ -27,4 +27,5 @@
   definePageMeta({
     layout: "arabic",
   })
+const { data } = await useAsyncData('home', () => queryContent('/ar/blog/').find())
 </script>

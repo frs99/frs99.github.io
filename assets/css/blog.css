@@ -3,18 +3,24 @@ h1,h2,h3,h4,h5,h6{
 }
 .article-blog h1{
   font-weight: bold;
-  font-size:32px;
+  font-size:36px;
   margin-top: 12px;
+  text-align: right !important;
+  font-weight: bold;
 }
 .article-blog h2 {
   font-weight: bold;
-  font-size: 26px;
+  font-size: 28px;
   margin-top: 12px;
+  text-align: right !important;
+  font-weight: bold;
 }
 .article-blog h3 {
   font-weight: bold;
-  font-size: 22px;
+  font-size: 24px;
   margin-top: 12px;
+  text-align: right !important;
+  font-weight: bold;
 }
 .article-blog p{
   line-height: 30px;
@@ -58,4 +64,16 @@ h1,h2,h3,h4,h5,h6{
   padding-right: 8px;
   background-color: #4A4E69;
   border-radius: 4px;
+}
+.article-blog code{
+  background-color: #101018;
+  color: #C9ADA7;
+  padding: 18px;
+  border-radius: 6px;
+  margin: 10px 0;
+  display: inline-block;
+}
+.article-blog pre{
+  overflow: auto;
+  direction: ltr !important;
 }

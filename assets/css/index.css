@@ -18,12 +18,12 @@ input:focus {
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
-  width: 0px;
+  height:8px;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background-color: #94682A;
+  background-color: #C9ADA7;
   border-radius: 2px;
 }
 
