@@ -5,7 +5,7 @@
     "nameAr": "متجر أصيلة",
     "descriptionAr": "تطبيق لمتجر اونلاين",
     "img":"/portfolioAssets/img/Asset 13.png",
-    "link":"3",
+    "link":"#",
     "linkG": "[soon]"
   },
   {
@@ -23,7 +23,7 @@
     "nameAr": "الفرقان",
     "descriptionAr": "موسوعة تدبر القرآن",
     "img":"/portfolioAssets/img/Asset 4.png",
-    "link":"https://gheyth.github.io/alfurqan/",
-    "linkG": "/gheyth/alfurqan/"
+    "link":"https://gheyth.github.io/al-furqan/",
+    "linkG": "/gheyth/al-furqan/"
   }
 ]
