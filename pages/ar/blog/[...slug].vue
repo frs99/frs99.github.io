@@ -1,14 +1,14 @@
 <template>
-  <section class="py-20 sm:py-0 px-10 sm:container sm:my-0 sm:mx-auto md:max-w-3xl 2xl:max-w-5xl text-white">
+  <section class="pb-20 px-10 sm:container sm:my-0 sm:mx-auto md:max-w-3xl 2xl:max-w-5xl text-white">
     
     <div class="big-title mb-10 sm:mb-0 flex justify-center items-center">
-      <h1 class="inline-block text-5xl sm:text-6xl text-color04 text-right w-72 rounded-md font-bold">{{data.title}}</h1>
+      <h1 class="inline-block text-6xl sm:text-7xl text-color04 text-right w-96 rounded-md font-bold">{{data.title}}</h1>
     </div>
 
     <ul>
       <h1 class="font-bold text-2xl text-color01 rounded-md inline-block p-1 bg-color04">الفهرسة</h1>
       <li class="list-decimal mr-6 text-sm my-2" v-for="toc in data.body.toc.links" :key="toc" >
-        <NuxtLink :to="`#${toc.id}`">
+        <NuxtLink class="hover:mr-2 transition-all" :to="`#${toc.id}`">
           {{ toc.text }}
         </NuxtLink>
       </li>
@@ -39,9 +39,12 @@ const { data } = await useAsyncData(`content-${path}`, () => {
 </script>
 
 <style scoped>
-@media (min-width:650px){
+.big-title {
+  height: calc(100vh - 80px);
+}
+/* @media (min-width:650px){
   .big-title {
       height: calc(100vh - 80px);
     }
-}
+} */
 </style>

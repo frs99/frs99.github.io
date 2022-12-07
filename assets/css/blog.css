@@ -42,14 +42,14 @@ h1,h2,h3,h4,h5,h6{
   
 }
 
-.article-blog p a {
+.article-blog p a, .article-blog li a {
   text-decoration: revert;
   padding: 0 2px 0 2px;
   transition: all 0.5s;
   border-radius: 3px;
   font-weight: bold;
 }
-.article-blog p a:hover {
+.article-blog p a:hover, .article-blog li a:hover {
   background-color: #C9ADA7;
   color: #22223B;
 }
