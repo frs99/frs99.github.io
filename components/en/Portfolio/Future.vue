@@ -4,7 +4,7 @@
     <p class="ml-2 font-light text-color03 text-sm mt-2">My works that I plan or have not finished</p>
 
     <div class="mt-3 my-0 mx-auto sm:flex sm:flex-wrap sm:justify-between lg:max-w-2xl">
-      <a v-for="item in portfolio" :key="item" :href="item.link" target="_blank"
+      <a v-for="item in data[0].body" :key="item" :href="item.link" target="_blank"
         class="inline-block w-full px-3 py-2 rounded-sm transition-all lg:w-80 hover:bg-color02" aria-label="link">
         <article class="flex items-center">
           <div class="flex justify-center items-center w-11">
@@ -25,5 +25,5 @@
 </template>
 
 <script setup>
-  const {data: portfolio} = await useFetch(' /portfolioAssets/api/future.json')
+  const { data } = await useAsyncData(() => queryContent('/portfolio').find())
 </script>
