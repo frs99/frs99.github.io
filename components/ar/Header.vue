@@ -22,7 +22,7 @@
       <div @click="CloseBavbar" class="text-right mt-6 sm:hidden">
         <i class="fi fi-sr-cross-circle text-2xl text-color04 "></i>
       </div>
-      <!-- ICON FOR CLOS -->
+      <!-- ICON FOR CLOSE -->
 
       <nav>
         <ul class="sm:flex justify-between text-color05 font-medium">
