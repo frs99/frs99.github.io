@@ -25,5 +25,5 @@
 </template>
 
 <script setup>
-  const { data } = await useAsyncData(() => queryContent('/portfolio').find())
+  const { data } = await useAsyncData(() => queryContent('/api/portfolio').find())
 </script>

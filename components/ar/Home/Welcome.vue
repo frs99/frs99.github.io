@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-  const { data } = await useAsyncData(() => queryContent('/ar/quran').find())
+  const { data } = await useAsyncData(() => queryContent('/api/dataquran').find())
   const AyatContent = data._rawValue[0].body
   const aya = AyatContent[Math.floor(Math.random() * AyatContent.length)];
 
