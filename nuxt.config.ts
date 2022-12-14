@@ -40,7 +40,9 @@ export default defineNuxtConfig({
   //   dir: 'assets/img'
   // },
   // ssr: false,
-  // nitro: {
-  //   preset: 'service-worker'
+  // content: {
+  //   experimental: {
+  //     clientDB: true
+  //   }
   // }
 })

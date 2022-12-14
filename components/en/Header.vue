@@ -20,7 +20,7 @@
       </div>
 
       <!-- ICON FOR CLOSE -->
-      <div @click="CloseBavbar" class="text-right mt-6 sm:hidden">
+      <div @click="CloseNavbar" class="text-right mt-6 sm:hidden">
         <i class="fi fi-sr-cross-circle text-2xl text-color04 "></i>
       </div>
       <!-- ICON FOR CLOS -->
@@ -28,7 +28,7 @@
       <nav>
         <ul class="sm:flex justify-between text-color05 font-medium">
           <li class="sm:px-5" v-for="item in navbar" :key="item">
-            <NuxtLink @click="CloseBavbar" class="w-full inline-block text-center py-7" :to="item.link">{{item.name}}</NuxtLink>
+            <NuxtLink @click="CloseNavbar" class="w-full inline-block text-center py-7" :to="item.link">{{item.name}}</NuxtLink>
           </li>
         </ul>
       </nav>
@@ -63,7 +63,7 @@ export default {
     OpenNavbar(){
       this.$refs.navbar.classList.toggle("max-h")
     },
-    CloseBavbar(){
+    CloseNavbar(){
       this.$refs.navbar.classList.toggle("max-h")
     }
   },
