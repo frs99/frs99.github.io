@@ -1,9 +1,10 @@
 <template>
-  <div>
+  <div class="page">
     <EnHeader />
     <main>
       <slot />
     </main>
+    <Loading />
   </div>
 </template>
 
@@ -19,7 +20,7 @@
   })
 </script>
 <style scoped>
-  div{
+div{
     font-family: 'Inter', sans-serif;
   }
 </style>

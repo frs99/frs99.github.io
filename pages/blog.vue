@@ -13,7 +13,7 @@
 </template>
 
 <script setup>
-  useHead({title: "Home"})
+  useHead({title: "Blog"})
   definePageMeta({
     layout: "english",
   })

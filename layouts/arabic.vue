@@ -1,9 +1,10 @@
 <template>
-  <div>
+  <div class="page">
     <ArHeader />
     <main>
       <slot />
     </main>
+    <loading />
   </div>
 </template>
 
@@ -16,7 +17,7 @@
     meta: [{
       name: "description",
       content: "الموقع الرسمي"
-    }]
+    }],
   })
 </script>
 
