@@ -1,10 +1,19 @@
 [
   {
+    "name": "Al-furqan",
+    "description": "Encyclopedia of the Qur'an",
+    "nameAr": "الفرقان",
+    "descriptionAr": "موسوعة تدبر القرآن",
+    "img":"/portfolioAssets/img/alfurqan.png",
+    "link":"https://gheyth.github.io/al-furqan/",
+    "linkG": "/gheyth/al-furqan/"
+  },
+  {
     "name": "Acila store",
     "description": "Online store application",
     "nameAr": "متجر أصيلة",
     "descriptionAr": "تطبيق لمتجر اونلاين",
-    "img":"/portfolioAssets/img/Asset 13.png",
+    "img":"/portfolioAssets/img/acila.png",
     "link":"#",
     "linkG": "[soon]"
   },
@@ -13,17 +22,17 @@
     "description": "A small encyclopedia of prophetic sayings",
     "nameAr": "أحمد",
     "descriptionAr": "موسوعة احاديث نبوية",
-    "img":"/portfolioAssets/img/Asset 15.png",
-    "link":"https://gheyth.github.io/ahmed/",
-    "linkG": "/gheyth/ahmed/"
+    "img":"/portfolioAssets/img/ahmed.png",
+    "link":"#",
+    "linkG": "[soon]"
   },
   {
-    "name": "Al-furqan",
-    "description": "Encyclopedia of the Qur'an",
-    "nameAr": "الفرقان",
-    "descriptionAr": "موسوعة تدبر القرآن",
-    "img":"/portfolioAssets/img/Asset 4.png",
-    "link":"https://gheyth.github.io/al-furqan/",
-    "linkG": "/gheyth/al-furqan/"
+    "name": "ESaturn",
+    "description": "My coding lab",
+    "nameAr": "ESaturn",
+    "descriptionAr": "مختبر تكويد خاص بي",
+    "img":"/portfolioAssets/img/esaturn.png",
+    "link":"#",
+    "linkG": "[soon]"
   }
 ]
