@@ -38,7 +38,7 @@
           <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://twitter.com/_frs99"><i class="fi fi-brands-twitter text-lg h-5"></i></a></li>
           <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://github.com/frs99"><i class="fi fi-brands-github text-lg h-5"></i></a></li>
           <!-- <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://dev.to/frs99"><i class="fi fi-brands-dev text-lg h-5"></i></a></li> -->
-          <li><NuxtLink class="block font-medium text-xs lang bg-color04 rounded-md py-1 px-5 sm:px-2 text-color01" to="/ar/">العربية</NuxtLink></li>
+          <li><NuxtLink class="block font-medium text-xs lang bg-color04 rounded-md py-1 px-5 sm:px-2 text-color01" to="/">العربية</NuxtLink></li>
         </ul>
       </nav>
     </section>
@@ -52,10 +52,10 @@ export default {
   data() {
     return {
       navbar: [
-        {name:"Home", link:"/"},
-        {name:"About", link:"/about/"},
-        {name:"Portfolio", link:"/portfolio/"},
-        {name:"Blog", link:"/blog/"},
+        {name:"Home", link:"/en/"},
+        { name: "About", link:"/en/about/"},
+        { name: "Portfolio", link:"/en/portfolio/"},
+        { name: "Blog", link:"/en/blog/"},
       ]
     }
   },

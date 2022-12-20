@@ -1,20 +1,18 @@
 <template>
   <section class="flex justify-center items-center">
-    <ArHomeWelcome />
+    <EnHomeWelcome />
   </section>
 </template>
 
 <script setup>
-useHead({
-  title:"الرئيسية"
-})
-definePageMeta({
-    layout:"arabic"
+  useHead({title: "Home"})
+  definePageMeta({
+    layout: "english",
   })
 </script>
 
 <style scoped>
-  section {
+  section{
     height: calc(100vh - 80px);
   }
 </style>

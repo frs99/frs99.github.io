@@ -39,7 +39,7 @@
           <li class="sm:ml-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://github.com/frs99"><i class="fi fi-brands-github text-lg h-5"></i></a></li>
           <!-- <li class="sm:mr-5 flex items-center justify-center"><a target="_blank" class="flex items-center justify-center" href="https://dev.to/frs99"><i class="fi fi-brands-dev text-lg h-5"></i></a></li> -->
           <li>
-            <NuxtLink class="block font-medium text-xs lang bg-color04 rounded-md py-1 px-5 sm:px-2 text-color01" to="/">English</NuxtLink>
+            <NuxtLink class="block font-medium text-xs lang bg-color04 rounded-md py-1 px-5 sm:px-2 text-color01" to="/en/">English</NuxtLink>
           </li>
         </ul>
       </nav>
@@ -54,10 +54,10 @@ export default {
   data() {
     return {
       navbar: [
-        { name: "الرئيسية", link: "/ar/" },
-        { name: "حول", link: "/ar/about/" },
-        { name: "أعمالي", link: "/ar/portfolio/" },
-        { name: "المدونة", link: "/ar/blog/" },
+        { name: "الرئيسية", link: "/" },
+        { name: "حول", link: "/about/" },
+        { name: "أعمالي", link: "/portfolio/" },
+        { name: "المدونة", link: "/blog/" },
       ]
     }
   },

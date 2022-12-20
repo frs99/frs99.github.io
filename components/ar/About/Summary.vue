@@ -4,10 +4,12 @@
     <h1>فارس<br>جفافلية</h1>
     <br>
 
-    <p>السلام عليكم، اسمي <strong>فارس</strong> وعمري 23 و احب المنطق و التحليل.
-    كذلك أنا <strong>تقني في شبكات الاتصال</strong>، <strong>مطور مواقع الويب</strong>، ومهتم بتصميم UX/UI واحب طرح مشاريع مفتوحة المصدر.</p>
-    <br>
+    <p>السلام عليكم، اسمي <strong>فارس</strong> وعمري 23 و احب المنطق و التحليل،
+    <strong>تقني في شبكات الاتصال</strong>، <strong>مطور مواقع الويب</strong>، ومهتم بتصميم UX/UI واحب التعلم و طرح مشاريع مفتوحة المصدر.</p>
+    <p>كذلك مهتم جدا بعلوم الشريعة وأقسامها.</p>
 
+    <br>
+    
     <p>عملت سنتين لدى &quot;<strong><a  target="_blank" href="https://www.algerietelecom.dz/ar">اتصالات الجزائر</a></strong>&quot;، و أول موقع إلكتروني ابرمجه كان منذ حوالي 3 سنوات.</p>
     <br>
 
@@ -28,8 +30,8 @@
 
     <p class="font-light text-sm text-left"><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> FARES {{year}}</p>
     <div class="mt-5">
-      <NuxtLink class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/ar/" aria-label="link">/رجوع</NuxtLink>
-      <NuxtLink class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1" to="/ar/portfolio/" aria-label="link">/أعمالي</NuxtLink>
+      <NuxtLink class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/" aria-label="link">/رجوع</NuxtLink>
+      <NuxtLink class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1" to="/portfolio/" aria-label="link">/أعمالي</NuxtLink>
     </div>
   </div>
 </template>
