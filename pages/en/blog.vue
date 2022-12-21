@@ -6,7 +6,7 @@
       <h1 class="font-black text-3xl sm:text-5xl text-center mt-3">for Arabic content</h1>
       <div class="mt-5">
         <NuxtLink class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1" to="/en/portfolio/">cd..</NuxtLink>
-        <NuxtLink class="lang float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/blog/">/المدونة</NuxtLink>
+        <NuxtLink class="lang float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/blog/tech/">/المدونة</NuxtLink>
       </div>
     </div>
   </section>

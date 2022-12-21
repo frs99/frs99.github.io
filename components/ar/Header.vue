@@ -57,7 +57,7 @@ export default {
         { name: "الرئيسية", link: "/" },
         { name: "حول", link: "/about/" },
         { name: "أعمالي", link: "/portfolio/" },
-        { name: "المدونة", link: "/blog/" },
+        { name: "المدونة", link: "/blog/tech/" },
       ]
     }
   },

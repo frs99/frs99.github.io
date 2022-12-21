@@ -16,7 +16,7 @@
     <p>اجيد استخدام الكمبيوتر و الانترنت في عدة اشياء، أغلبها في البرمجة و التصميم، واجيد لغات البرمجة الأساسية لاجل مطور ويب الواجهة الامامية، واجيد استخدام إطار العمل <strong><a  target="_blank" href="https://vuejs.org/">Vue.js@</a></strong> و <strong><a  target="_blank" href="https://nuxt.com/">Nuxt.js@</a></strong> و <strong><a  target="_blank" href="https://tailwindcss.com/">TailwindCSS@</a></strong></p>
     <br>
 
-    <p>حاليا أعمل على عدة مشاريع ومن بينها <strong><a  target="_blank" href="https://github.com/esaturn">ESaturn@</a></strong> و هو مختبر أنشئ فيه أدوات تدعم وتساعد مطوري الويب، و اعمل على <strong><a  target="_blank" href="https://github.com/gheyth">@غيث</a></strong> و محتواه لخدمة الإسلام، ومشاريع اخرى عديدة تجدها في صفحة <strong><NuxtLink to="/ar/portfolio/">أعمالي</NuxtLink></strong>.</p>
+    <p>حاليا أعمل على عدة مشاريع ومن بينها <strong><a  target="_blank" href="https://github.com/esaturn">ESaturn@</a></strong> و هو مختبر أنشئ فيه أدوات تدعم وتساعد مطوري الويب، و اعمل على <strong><a  target="_blank" href="https://github.com/gheyth">@غيث</a></strong> و محتواه لخدمة الإسلام، ومشاريع اخرى عديدة تجدها في صفحة <strong><NuxtLink to="/portfolio/">أعمالي</NuxtLink></strong>.</p>
     <br>
 
     <p>مستقبلا اخطط لتعلم تطوير الواجهة الخلفية للمواقع والدخول الى عالم <strong><a  target="_blank" href="https://flutter.dev/">flutter</a></strong></p>
