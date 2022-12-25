@@ -34,5 +34,14 @@
     "img":"/portfolioAssets/img/esaturn.png",
     "link":"#",
     "linkG": "[soon]"
+  },
+  {
+    "name": "Muzaml",
+    "description": "business venture for software",
+    "nameAr": "المزمل",
+    "descriptionAr": "مشروع تجاري للبرمجيات",
+    "img":"/portfolioAssets/img/muzaml.png",
+    "link":"#",
+    "linkG": "[soon]"
   }
 ]

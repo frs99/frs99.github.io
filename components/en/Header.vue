@@ -6,7 +6,7 @@
       <div>
         <img class="w-11 h-11" src="~/assets/img/logo.png" alt="logo">
       </div>
-      <div @click="OpenNavbar">
+      <div @click="Navbar">
         <i class="fi fi-sr-apps text-2xl text-color04"></i>
       </div>
     </section>
@@ -20,7 +20,7 @@
       </div>
 
       <!-- ICON FOR CLOSE -->
-      <div @click="CloseNavbar" class="text-right mt-6 sm:hidden">
+      <div @click="Navbar" class="text-right mt-6 sm:hidden">
         <i class="fi fi-sr-cross-circle text-2xl text-color04 "></i>
       </div>
       <!-- ICON FOR CLOS -->
@@ -28,7 +28,7 @@
       <nav>
         <ul class="sm:flex justify-between text-color05 font-medium">
           <li class="sm:px-5" v-for="item in navbar" :key="item">
-            <NuxtLink @click="CloseNavbar" class="w-full inline-block text-center py-7" :to="item.link">{{item.name}}</NuxtLink>
+            <NuxtLink @click="Navbar" class="w-full inline-block text-center py-7" :to="item.link">{{item.name}}</NuxtLink>
           </li>
         </ul>
       </nav>
@@ -60,12 +60,9 @@ export default {
     }
   },
   methods: {
-    OpenNavbar(){
+    Navbar(){
       this.$refs.navbar.classList.toggle("max-h")
     },
-    CloseNavbar(){
-      this.$refs.navbar.classList.toggle("max-h")
-    }
   },
 }
 </script>

@@ -18,7 +18,7 @@
     <ContentDoc class="article-blog mt-8 text-justify" />
     
     <div class="mt-5">
-      <NuxtLink class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/blog/" aria-label="link">/رجوع</NuxtLink>
+      <NuxtLink class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/blog/tech/" aria-label="link">/رجوع</NuxtLink>
       <NuxtLink target="_blank" class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1" to="mailto:frs99.me@gmail.com" aria-label="link">رأيك</NuxtLink>
     </div>
   </section>
