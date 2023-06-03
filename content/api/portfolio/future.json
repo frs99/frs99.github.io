@@ -1,21 +1,12 @@
 [
   {
-    "name": "Gheyth",
-    "description": "Educational religious platform",
-    "nameAr": "غيث",
-    "descriptionAr": "منصة دينية تعليمية" ,
-    "img":"/portfolioAssets/img/gheyth.png",
-    "link":"https://github.com/gheyth",
-    "linkG": "/gheyth/"
-  },
-  {
     "name": "Al-furqan",
     "description": "Encyclopedia of the Qur'an",
     "nameAr": "الفرقان",
     "descriptionAr": "غيث - موسوعة تدبر القرآن",
     "img":"/portfolioAssets/img/alfurqan.png",
-    "link":"#",
-    "linkG": "[soon]"
+    "link":"https://gheyth.github.io/al-furqan/",
+    "linkG": "/gheyth/al-furqan/"
   },
   {
     "name": "Acila store",
@@ -36,21 +27,12 @@
     "linkG": "[soon]"
   },
   {
-    "name": "ESaturn",
-    "description": "My coding lab",
-    "nameAr": "ESaturn",
-    "descriptionAr": "مختبر تكويد خاص بي",
-    "img":"/portfolioAssets/img/esaturn.png",
-    "link":"#",
-    "linkG": "[soon]"
-  },
-  {
     "name": "Muzaml",
     "description": "business venture for software",
     "nameAr": "المزمل",
     "descriptionAr": "مشروع  تسويقي تجاري ",
     "img":"/portfolioAssets/img/muzaml.png",
-    "link":"#",
-    "linkG": "[soon]"
+    "link":"https://github.com/himzml",
+    "linkG": "/himzml/"
   }
 ]
