@@ -27,14 +27,12 @@ export default defineNuxtConfig({
     },
     buildAssetsDir: 'nuxt',
   },
+
   css: [
     '@/assets/css/index.css',
     '@/assets/css/blog.css'
   ],
-  modules: [
-    '@nuxtjs/tailwindcss',
-    '@nuxt/content',
-  ],
+
   // image: {
   //   provider: 'static',
   //   dir: 'assets/img'
@@ -45,4 +43,12 @@ export default defineNuxtConfig({
   //     clientDB: true
   //   }
   // }
+  modules: [
+    '@nuxtjs/tailwindcss',
+    '@nuxt/content',
+  ],
+
+  devtools: {
+    enabled: true,
+  },
 })
