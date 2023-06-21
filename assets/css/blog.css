@@ -68,14 +68,15 @@ h1,h2,h3,h4,h5,h6{
   font-size: 14px;
 }
 .article-blog code{
-  background-color: #101018;
-  color: #C9ADA7;
   padding: 18px;
-  border-radius: 6px;
-  margin: 10px 0;
   display: inline-block;
+  width: 100%;
 }
 .article-blog pre{
+  margin: 10px 0;
   overflow: auto;
   direction: ltr !important;
+  background-color: #101018;
+  color: #C9ADA7;
+  border-radius: 6px;
 }
