@@ -15,7 +15,7 @@ export default defineNuxtConfig({
       ],
       link: [
         // {link rel="stylesheet" href="https://myawesome-lib.css"}
-        { rel:"stylesheet", href:"https://cdn.jsdelivr.net/gh/esaturn/flaticon-uicons@V2.1.1/uicons.css" },
+        { rel:"stylesheet", href:"https://cdn.jsdelivr.net/gh/etmami/flaticon-uicons/uicons.css" },
         { rel:"stylesheet", href:"https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap", },
         { rel:"stylesheet", href:"https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap" },
         { rel:"apple-touch-icon", sizes:"120x120", href:"/apple-touch-icon.png"},

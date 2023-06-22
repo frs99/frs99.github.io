@@ -62,6 +62,7 @@ export default {
         { name: "حول", link: "/about/" },
         { name: "أعمالي", link: "/portfolio/" },
         { name: "المدونة", link: "/blog/tech/" },
+        { name: "استخدماتي", link: "/uses/" },
       ]
     }
   },
