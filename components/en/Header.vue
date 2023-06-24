@@ -55,7 +55,8 @@ export default {
         {name:"Home", link:"/en/"},
         { name: "About", link:"/en/about/"},
         { name: "Portfolio", link:"/en/portfolio/"},
-        { name: "Blog", link:"/en/blog/"},
+        { name: "Blog", link: "/en/blog/" },
+        { name: "Uses", link: "/en/uses/" },
       ]
     }
   },
