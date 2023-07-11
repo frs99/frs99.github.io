@@ -7,7 +7,9 @@ export default defineNuxtConfig({
         // {meta name="viewport" content="width=device-width, initial-scale=1"}
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name:"msapplication-TileColor", content:"#da532c"},
-        { name:"theme-color", content:"#22223b"}
+        { name: "theme-color", content: "#22223b" },
+        //google-search-console
+        { name: "google-site-verification", content: "VL-0e5AFPu64JCmHXI-_f32d7XljaQFsaM2BC0y0lQw" }
       ],
       script: [
         // {script src="https://myawesome-lib.js"}{/script}
