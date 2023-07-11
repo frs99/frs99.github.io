@@ -46,9 +46,13 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxt/content',
+    'nuxt-gtag',
   ],
 
   devtools: {
     enabled: true,
   },
+  gtag: {
+    id: 'G-Z4RVN7T083'
+  }
 })
