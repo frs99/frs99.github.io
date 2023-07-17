@@ -36,9 +36,9 @@
 
 
 
-  <p>حاليا أعمل على عدة مشاريع ومن بينها <strong><a target="_blank" href="https://github.com/himzml">Muzaml@</a></strong> وهو مشروع خاص يرعى ويساعد أصحاب الأنشطة الرقمية، و اعمل على <strong><a target="_blank" href="https://github.com/gheyth">@غيث</a></strong> و محتواه لخدمة الإسلام، ومشاريع اخرى عديدة تجدها في صفحة <strong><NuxtLink to="/portfolio/">أعمالي</NuxtLink></strong>.</p>
+  <!-- <p>حاليا أعمل على عدة مشاريع ومن بينها <strong><a target="_blank" href="https://github.com/himzml">Muzaml@</a></strong> وهو مشروع خاص يرعى ويساعد أصحاب الأنشطة الرقمية، و اعمل على <strong><a target="_blank" href="https://github.com/gheyth">@غيث</a></strong> و محتواه لخدمة الإسلام، ومشاريع اخرى عديدة تجدها في صفحة <strong><NuxtLink to="/portfolio/">أعمالي</NuxtLink></strong>.</p>
 
-  <br>
+  <br> -->
 
 
 

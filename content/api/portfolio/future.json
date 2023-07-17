@@ -1,13 +1,5 @@
 [
-  {
-    "name": "Al-furqan",
-    "description": "Encyclopedia of the Qur'an",
-    "nameAr": "الفرقان",
-    "descriptionAr": "غيث - موسوعة تدبر القرآن",
-    "img":"/portfolioAssets/img/alfurqan.png",
-    "link":"https://gheyth.github.io/al-furqan/",
-    "linkG": "/gheyth/al-furqan/"
-  },
+  
   {
     "name": "Acila store",
     "description": "Online store application",
@@ -16,23 +8,5 @@
     "img":"/portfolioAssets/img/acila.png",
     "link":"#",
     "linkG": "[soon]"
-  },
-  {
-    "name": "Ahmed",
-    "description": "A small encyclopedia of prophetic sayings",
-    "nameAr": "أحمد",
-    "descriptionAr": "غيث - موسوعة احاديث نبوية",
-    "img":"/portfolioAssets/img/ahmed.png",
-    "link":"#",
-    "linkG": "[soon]"
-  },
-  {
-    "name": "Muzaml",
-    "description": "business venture for software",
-    "nameAr": "المزمل",
-    "descriptionAr": "مشروع  تسويقي تجاري ",
-    "img":"/portfolioAssets/img/muzaml.png",
-    "link":"https://github.com/himzml",
-    "linkG": "/himzml/"
   }
 ]

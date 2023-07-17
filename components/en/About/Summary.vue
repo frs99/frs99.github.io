@@ -29,9 +29,9 @@
 
     <br>
 
-    <p>In the future, I plan to learn back-end web development and delve into the world of <strong><a target="_blank" href="https://flutter.dev/">Flutter</a></strong>.</p>
+    <!-- <p>In the future, I plan to learn back-end web development and delve into the world of <strong><a target="_blank" href="https://flutter.dev/">Flutter</a></strong>.</p>
 
-    <br>
+    <br> -->
 
     <p>If you would like to view my resume or learn more about me, you can send an <strong><a target="_blank" href="mailto:frs99.me@gmail.com">email</a></strong>.</p>
 

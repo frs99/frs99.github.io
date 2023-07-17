@@ -1,7 +1,7 @@
 <template>
   <section class="py-20 px-10 sm:container sm:my-0 sm:mx-auto md:max-w-3xl">
     <h1 class="font-bold text-color03 text-3xl">المدونة الإسلامية</h1>
-    <p class="font-light text-color03 text-sm mt-2">في هذه المساحة اشارك ملخصاتي في ما تعلمه في العلوم الشرعية.</p>
+    <p class="font-light text-color03 text-sm mt-2">في هذه المساحة اشارك ملخصاتي في ما تعلمته في العلوم الشرعية.</p>
     <p class="font-light text-color05 bg-color02 p-3 rounded-lg text-sm mt-2">لا يتم اضافة اعلانات او روابط مشبوهة مختصرة هنا.</p>
 
     <p class="font-light text-color03 text-sm mt-2">كذلك!</p>
