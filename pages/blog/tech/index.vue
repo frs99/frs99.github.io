@@ -34,7 +34,7 @@
 
 <script setup>
   useHead({
-    title: "المدونة الإسلامية"
+    title: "المدونة التقنية"
   })
   definePageMeta({
     layout: "arabic",
