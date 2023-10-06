@@ -32,7 +32,6 @@ export default defineNuxtConfig({
 
   css: [
     '@/assets/css/index.css',
-    '@/assets/css/blog.css'
   ],
 
   // image: {
