@@ -1,4 +1,4 @@
-h1,h2,h3,h4,h5,h6{
+/* h1,h2,h3,h4,h5,h6{
   text-decoration: none;
 }
 .article-blog h1{
@@ -25,7 +25,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .article-blog p{
   line-height: 30px;
-}
+} */
 .article-blog ul li{
   list-style-type: disc;
   margin-right: 22px;
