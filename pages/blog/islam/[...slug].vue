@@ -15,7 +15,7 @@
     </ul>
 
     <!-- the content  -->
-    <ContentDoc class="article-blog mt-8 text-justify" />
+    <ContentDoc class="article-blog mt-8 text-justify prose-them01 prose-lg" />
     
     <div class="mt-5">
       <NuxtLink class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1" to="/blog/islam/" aria-label="link">/رجوع</NuxtLink>
@@ -38,10 +38,58 @@ const { data } = await useAsyncData(`content-${path}`, () => {
 })
 </script>
 
-<style scoped>
-.big-title {
-  height: calc(100vh - 80px);
-}
+<style>
+  .big-title {
+    height: calc(100vh - 80px);
+  }
+  .article-blog ul li{
+    list-style-type: disc;
+    margin-right: 22px;
+  }
+  .article-blog ol li{
+    list-style: decimal;
+    margin-right: 22px;
+  }
+  .article-blog img{
+    margin: 12px auto;
+    padding:6px;
+    border-radius: 6px;
+    border: 1px solid #4A4E69;
+    background-color: #4A4E69;
+    
+  }
+
+  .article-blog p a, .article-blog li a {
+    text-decoration: revert;
+    padding: 0 2px 0 2px;
+    transition: all 0.5s;
+    border-radius: 3px;
+    font-weight: bold;
+  }
+  .article-blog p a:hover, .article-blog li a:hover {
+    background-color: #C9ADA7;
+    color: #22223B;
+  }
+  .article-blog blockquote{
+    padding:4px;
+    padding-right: 8px;
+    background-color: #4A4E69;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+  .article-blog code{
+    padding: 18px;
+    display: inline-block;
+    width: 100%;
+  }
+  .article-blog pre{
+    margin: 10px 0;
+    overflow: auto;
+    direction: ltr !important;
+    background-color: #101018;
+    color: #C9ADA7;
+    border-radius: 6px;
+  }
 /* @media (min-width:650px){
   .big-title {
       height: calc(100vh - 80px);
