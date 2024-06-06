@@ -30,9 +30,9 @@ export default defineNuxtConfig({
     buildAssetsDir: 'nuxt',
   },
 
-  css: [
-    '@/assets/css/index.css',
-  ],
+  // css: [
+  //   '@/assets/css/index.css',
+  // ],
 
   // image: {
   //   provider: 'static',
