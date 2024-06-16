@@ -1,1 +1,32 @@
-<div class="text-color05 w-4/5 sm:w-3/5" data-v-8461c6c7=""><h1 data-v-8461c6c7="">Fares <br data-v-8461c6c7=""> Djefaflia</h1><br data-v-8461c6c7=""><p data-v-8461c6c7="">Hey, my name is <strong data-v-8461c6c7="">Fares</strong> and im 23 year, I love logic and analysis. I'm also a <strong data-v-8461c6c7="">network technician</strong> &amp; <strong data-v-8461c6c7="">website developer</strong>, and interested in UX/UI design, and I love open source projects.</p><br data-v-8461c6c7=""><p data-v-8461c6c7="">I worked for two years at Algeria Telecom, and the first website I programmed was about 3 years ago.</p><br data-v-8461c6c7=""><p data-v-8461c6c7="">I am good at using a computer and the Internet in several things, mostly in programming and design, and I am good at basic programming languages for a front-end web developer, and I am good at using the <strong data-v-8461c6c7=""><a href="https://vuejs.org/" target="_blank" title="@Vue.js" data-v-8461c6c7="">@Vue.js</a></strong> and <strong data-v-8461c6c7=""><a href="https://nuxt.com/" target="_blank" title="@Nuxt.js" data-v-8461c6c7="">@Nuxt.js</a></strong> and <strong data-v-8461c6c7=""><a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" data-v-8461c6c7="">Tailwind CSS</a></strong> frameworks.</p><br data-v-8461c6c7=""><p data-v-8461c6c7="">I am currently working on several projects, including the <strong data-v-8461c6c7=""><a href="https://github.com/esaturn" target="_blank" title="@ESaturn" data-v-8461c6c7="">@ESaturn</a></strong>, which supports and assists web developers, and I am working on the " Hadinat <strong data-v-8461c6c7=""><a href="https://github.com/gheyth" target="_blank" title="@Gheyth" data-v-8461c6c7="">@Gheyth</a></strong> " platform and its religious-spiritual content, and many other projects, that you can find in <strong data-v-8461c6c7=""><a href="/portfolio/" class="" title="my portfolio" data-v-8461c6c7="">my portfolio</a></strong>.</p><br data-v-8461c6c7=""><p data-v-8461c6c7="">In the future, I plan to learn the back-end development of websites and enter the world of <strong data-v-8461c6c7=""><a href="https://flutter.dev/" target="_blank" title="Flutter" data-v-8461c6c7="">Flutter</a></strong></p><br data-v-8461c6c7=""><p data-v-8461c6c7="">For my resume or to know more about me, you can <strong data-v-8461c6c7=""><a target="_blank" href="mailto:frs99.me@gmail.com" title="contact me" data-v-8461c6c7="">Email me</a></strong></p><p data-v-8461c6c7="">Find me on <strong data-v-8461c6c7=""><a href="https://twitter.com/_frs99" target="_blank" title="Twitter" data-v-8461c6c7="">Twitter</a></strong>, <strong data-v-8461c6c7=""><a href="https://github.com/frs99" target="_blank" title="Github" data-v-8461c6c7="">Github</a></strong> or <strong data-v-8461c6c7=""><a href="https://www.facebook.com/me.frs99" target="_blank" title="Facebook" data-v-8461c6c7="">Facebook</a></strong>.</p><br data-v-8461c6c7=""><hr class="w-5 mb-5" data-v-8461c6c7=""><p class="font-light text-sm" data-v-8461c6c7=""><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" data-v-8461c6c7="">CC BY-NC-SA 4.0</a> FARES 2022</p>
+# Fares Djefaflia
+
+Hello, my name is **Fares**. I am 25 years old and I love logic and analysis.
+
+I am a **network technician** and a **web developer**, and I am interested in UX/UI design. I enjoy learning and contributing to open-source projects.
+
+I am also very interested in the sciences of Sharia and its branches.
+
+**Experience**
+
+* Worked for two years at "**Algerie Telecom**" (https://www.algerietelecom.dz/ar).
+* First website programmed in 2019.
+
+**Skills**
+
+* Proficient in using computers and the internet for various purposes, mostly in programming and design.
+* Skilled in core programming languages for front-end web development.
+* Proficient in using the **Vue.js** (https://vuejs.org/), **Nuxt.js** (https://nuxt.com/), and **TailwindCSS** (https://tailwindcss.com/) frameworks.
+* Proficient in using various Adobe programs such as Figma and Illustrator.
+
+**Learning**
+
+* Currently learning backend development using **Node.js** (https://nodejs.org/) and plan to explore **Flutter** (https://flutter.dev/).
+
+**Contact**
+
+* If you would like to view my resume or learn more about me, you can send an email to [frs99.me@gmail.com](mailto:frs99.me@gmail.com).
+* You can find me on Twitter (https://twitter.com/_frs99), GitHub (https://github.com/frs99), or Telegram (https://t.me/faresdjefaflia).
+
+**License**
+
+CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/) FARES 2024
