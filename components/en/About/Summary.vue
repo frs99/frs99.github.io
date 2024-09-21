@@ -7,10 +7,14 @@
 
     <p>Hello, my name is <strong>Fares</strong>. I am {{ age }} years old and I love logic and analysis.</p>
 
-    <p>I am a <strong>network technician</strong> and a <strong>web developer</strong>, and I am interested in UX/UI
-      design. I enjoy learning and contributing to open-source projects.</p>
+    <p>I am a <strong>network technician</strong> and a <strong>web developer</strong>, and <strong> UX/UI designer
+      </strong>
+      design.
+      <br>
+      I enjoy learning and contributing to open-source projects.
+    </p>
 
-    <p>I am also very interested in the sciences of Sharia and its branches.</p>
+    <!-- <p>I am also very interested in the sciences of Sharia and its branches.</p> -->
 
     <br>
 
@@ -27,10 +31,12 @@
 
     <br>
 
-    <p>I also have proficiency in using various Adobe programs such as <strong>Figma</strong> and <strong>Illustrator</strong>.</p>
+    <p>I also have proficiency in using various Adobe programs such as <strong>Figma</strong> and
+      <strong>Illustrator</strong>.
+    </p>
 
     <br>
-<!-- 
+    <!-- 
     <p>Currently, I am working on several projects, including <strong><a target="_blank"
           href="https://github.com/himzml">Etmami</a></strong>, a special project that supports and assists digital
       activities. I am also working on <strong><a target="_blank" href="https://github.com/gheyth">@Gheyth</a></strong>,
@@ -44,7 +50,7 @@
           href="https://flutter.dev/">Flutter</a></strong>.</p>
     <br>
 
-    <br> 
+    <br>
 
     <p>If you would like to view my resume or learn more about me, you can send an <strong><a target="_blank"
           href="mailto:frs99.me@gmail.com">email</a></strong>.</p>
@@ -61,15 +67,12 @@
         href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> FARES {{ year }}</p>
 
     <div class="mt-5">
-
-      <a class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1"
-        href="/" aria-label="link">
-
-        /Back</a>
-
-      <a class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1"
-        href="/portfolio/" aria-label="link">/My Works</a>
-
+      <NuxtLink
+        class="float-left inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:ml-1"
+        to="/en/" aria-label="link">/Back</NuxtLink>
+      <NuxtLink
+        class="float-right inline-block bg-color04 text-color01 font-medium px-6 py-2 rounded-md mt-3 transition-all hover:mr-1"
+        to="/en/portfolio/" aria-label="link">/Portfolio</NuxtLink>
     </div>
 
   </div>
