@@ -3,7 +3,7 @@
     <!-- NAVBAR FOR MOBILE -->
     <section class="sm:hidden flex max px-6 my-0 mx-auto justify-between items-center h-20">
       <div>
-        <img class="w-11 h-11" src="~/assets/img/logo.png" alt="logo">
+        <img src="~/assets/img/logo.png" alt="logo">
       </div>
       <div @click="Navbar">
         <i class="fi fi-sr-apps text-2xl text-color04"></i>
@@ -15,7 +15,7 @@
         w-full bg-color01 fixed top-0 h-0 z-50 overflow-hidden
         sm:static sm:flex sm:max px-6 my-0 mx-auto sm:justify-between sm:items-center sm:h-20">
       <div class="hidden sm:block w-36">
-        <img class="w-11 h-11" src="~/assets/img/logo.png" alt="logo">
+        <img src="~/assets/img/logo.png" alt="logo">
       </div>
 
       <!-- ICON FOR CLOSE -->

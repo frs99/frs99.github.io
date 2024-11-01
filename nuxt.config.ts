@@ -53,7 +53,10 @@ export default defineNuxtConfig({
   devtools: {
     enabled: true,
   },
+
   gtag: {
     id: 'G-Z4RVN7T083'
-  }
+  },
+
+  compatibilityDate: "2024-11-01",
 })
