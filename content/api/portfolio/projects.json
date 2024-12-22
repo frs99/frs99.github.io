@@ -9,24 +9,6 @@
     "linkG": "/gheyth/"
   },
   {
-    "name": "Al-furqan",
-    "description": "Encyclopedia of the Qur'an",
-    "nameAr": "الفرقان",
-    "descriptionAr": "غيث - موسوعة تدبر القرآن",
-    "img":"/portfolioAssets/img/alfurqan.png",
-    "link":"https://gheyth.github.io/al-furqan/",
-    "linkG": "/gheyth/al-furqan/"
-  },
-  {
-    "name": "Ahmed",
-    "description": "A small encyclopedia of prophetic sayings",
-    "nameAr": "أحمد",
-    "descriptionAr": "غيث - موسوعة احاديث نبوية",
-    "img":"/portfolioAssets/img/ahmed.png",
-    "link":"https://gheyth.github.io/ahmed/",
-    "linkG": "/gheyth/ahmed/"
-  },
-  {
     "name": "Marj3i",
     "description": "Practical application for a UX/UI & Vue.js",
     "nameAr": "مرجعي",
@@ -52,14 +34,5 @@
     "img":"/portfolioAssets/img/dalil.png",
     "link":"https://frs99.github.io/dalilmutabarie/",
     "linkG": "/frs99/dalilmutabarie/"
-  },
-  {
-    "name": "Google Play Gallery",
-    "description": "View applications in one place",
-    "nameAr": "معرض تطبيقات جوجل بلاي",
-    "descriptionAr": "عرض التطبيقات في مكان واحد",
-    "img":"/portfolioAssets/img/googleplay.png",
-    "link":"https://frs99.github.io/google-play-gallery/",
-    "linkG": "/frs99/google-play-gallery/"
   }
 ]

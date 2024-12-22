@@ -78,9 +78,13 @@ const { data } = await useAsyncData(`content-${path}`, () => {
     font-size: 14px;
   }
   .article-blog code{
-    padding: 18px;
-    display: inline-block;
-    width: 100%;
+    margin: 10px 0;
+    overflow: auto;
+    direction: ltr !important;
+    background-color: #101018;
+    color: #C9ADA7;
+    border-radius: 3px;
+    padding: 2px 6px;
   }
   .article-blog pre{
     margin: 10px 0;
